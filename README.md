@@ -31,7 +31,7 @@ username!
 
 - CHRISTIAN
 
-- [@KarrieFF][https://github.com/karrieFF] I'm from China and I like playing badminton. My first programming language is Python. Before I went to Higher Education. I am a track and filed athlete
+- [@KarrieFF][https://github.com/karrieFF] I'm from China and I like playing badminton. My first programming language is Python. This is the second year of my PhD. I am so excited to learn new things here!
 
 - SOPHIE
 
