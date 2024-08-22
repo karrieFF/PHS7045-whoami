@@ -31,7 +31,7 @@ username!
 
 - CHRISTIAN
 
-- LINGYI
+- [@KarrieFF][https://github.com/karrieFF] I'm from China and I like playing badminton. My first programming language is Python. Before I went to Higher Education. I am a track and filed athlete
 
 - SOPHIE
 
